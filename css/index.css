@@ -1,0 +1,19 @@
+span {
+    /* Por etiqueta */
+}
+
+#principal {
+    /* Por identificador */
+}
+
+.nombreClase {
+    /* Por nombre de clase */
+}
+
+.nombreClase, .nombreClase2 {
+    /* Aplica a diferentes elementos separados por coma */
+}
+
+body > header > span {
+    font-size: 40px;
+}
